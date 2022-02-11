@@ -1,10 +1,10 @@
 # Telegram VCPlayer Bot
 Play any media(song, video, live, remote) directly into your group voice chat.
 
-Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion Group : [VoiceChat Music Player Support](https://telegram.me/voicechatsupport)
+Official Bot : [VCPlayerBot](https://t.me/bgmimodversion)   |   Discussion Group : [VoiceChat Music Player Support](https://t.me/bgmimodversion)
 
 <p align="center">
-  <img width="200" height="200" src="https://i.postimg.cc/QdH3XrxV/Screenshot-2021-05-05-203005-removebg-preview.png">
+  <img width="200" height="200" src="https://i.postimg.cc/RVCpfy34/In-Shot-20220211-210439589.jpg">
 </p>
 
 [Checkout AutoForwarder Bot](https://sktechhub.com/auto-forward) | [Try Code Compile Bot](https://t.me/codecompilebot)
@@ -71,15 +71,15 @@ Command | Description
 
 
 <p align="center">
-  <img width="500" height="300" src="https://i.postimg.cc/qRtC4bD2/photo-2021-05-28-00-15-11.jpg">
+  <img width="500" height="300" src="https://i.postimg.cc/RVCpfy34/In-Shot-20220211-210439589.jpg">
 </p>
 
 # Developer
-[Shubham Kumar](https://github.com/kshubham506)
+[TEAMDEVIL](https://t.me/bgmimodversion)
 
-For any issues/questions please contact [here](https://telegram.me/voicechatsupport)
+For any issues/questions please contact [here](https://t.me/bgmimodversion)
 
 Pull Requests are more than welcome.
 
 
- ### [A SkTechHub Product](https://sktechhub.com)
+ ### [A TEAMDEVIL Product]()
